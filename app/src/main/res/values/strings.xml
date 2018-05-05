@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoCustomView</string>
+
+    <string name="title_rodar">rodarView</string>
+    <string name="title_pie">pirView</string>
+    <string name="title_watchboard">WatchBoard</string>
+    <string name="title_circleper">CirclePerView</string>
+    <string name="btn_animate">animate</string>
+    <string name="title_flipboard">FlipBoard</string>
+    <string name="btn_setdata">setData</string>
+    <string name="title_linechart">LineChart</string>
+    <string name="title_enhancedCircle">EnhancedCircle</string>
+</resources>

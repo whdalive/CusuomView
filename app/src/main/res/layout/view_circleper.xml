@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.niyati.democustomview.CirclePercent.CirclePerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.niyati.democustomview.CirclePercent.CirclePerView
+        android:id="@+id/circle_view"
+        android:layout_width="600dp"
+        android:layout_height="600dp"
+        android:layout_centerInParent="true"
+        />
+    <Button
+        android:id="@+id/btn_animate"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:textSize="16sp"
+        android:text="@string/btn_animate"/>
+</com.example.niyati.democustomview.CirclePercent.CirclePerLayout>

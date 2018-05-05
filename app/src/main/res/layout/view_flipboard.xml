@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.niyati.democustomview.FilpBoard.FlipBoardLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.niyati.democustomview.FilpBoard.FlipBoardView
+        android:id="@+id/flip_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+       app:flip_background="@drawable/flip_board"/>
+
+
+</com.example.niyati.democustomview.FilpBoard.FlipBoardLayout>
