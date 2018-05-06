@@ -85,6 +85,7 @@ public class EnhancedCircleView extends View {
         float centerX = getWidth() / 2;
         float centerY = getHeight() / 2;
 
+
         //北京弧线
         mArcRectF.set(centerX - radius, centerY - radius,centerX + radius, centerY +radius);
         canvas.drawArc(mArcRectF,-90,360,false,mArcBackPaint);

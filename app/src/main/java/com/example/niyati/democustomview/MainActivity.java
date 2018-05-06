@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         mPageModels.add(new PageModel(R.layout.view_enhancedcircle,R.string.title_enhancedCircle));
         mPageModels.add(new PageModel(R.layout.view_flipboard,R.string.title_flipboard));
         mPageModels.add(new PageModel(R.layout.view_linechart,R.string.title_linechart));
+        mPageModels.add(new PageModel(R.layout.view_miclock,R.string.title_miclock));
     }
 
     @Override

@@ -10,4 +10,5 @@
     <string name="btn_setdata">setData</string>
     <string name="title_linechart">LineChart</string>
     <string name="title_enhancedCircle">EnhancedCircle</string>
+    <string name="title_miclock">MiClock</string>
 </resources>
